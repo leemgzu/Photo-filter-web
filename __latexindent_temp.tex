@@ -1,0 +1,110 @@
+\input opmac
+\input ../hisyntax
+\tit CS116 Ch10p06-GUI
+\sec Lab Description 
+
+In this lab, we need to design a photo effect program that allows users to select a photo and a photo effect. 
+After submitting the selesctions,
+the next page will show the corresponding photos.
+There are a base class Effect and its three derived classes: Sunset, Grayscale and Invert.
+The three derived classes inherit the function update\_pixel from Effect and reimplement the function process.
+The lab is meant to practice the polymorphism concepts in chapter 10.
+In order to allow the derived class to access the base class data member, 
+I use "protected" insead of "private."
+To access the objects from different classes in a class hierarchy, 
+I set up a vector of pointers to store the address of each object and 
+create virtual functions to further access the overriden member function in derived classes.
+I reused the code of parsing query string from previous lab and make it a helper function in the cgi file.
+I also reimplemented the code from imagemod.cpp in the bigc3code to open and save the bmp files.
+In the first version, I did not use the "dirent" structure and directly outputed the image to html.  
+The way I did in the previous version is static. However, in the real world situations, the dynamically creating html
+is much more prefered. To acheive that, I created another file to generate the html code and utilized the code from chapter 11
+worked_example_1
+Last but not the lease, I chose three photos I took in Yellowstone National Park this summer in te program.
+Since the original size is too big to process, I resized them to the 10\% of the origianl.
+
+\filbreak
+\sec The Images in Photo Gallery 
+\picw=4in \inspic bison.JPG
+\picw=4in \inspic prism.JPG
+\picw=4in \inspic hikingboots.JPG
+\picw=4in \inspic prism.JPG
+\picw=4in \inspic prism.JPG
+\picw=4in \inspic prism.JPG
+
+
+\sec The Images of The Web Page
+The Web Page of the Photo Program
+\nl
+\picw=6in \inspic webpage.png
+\filbreak
+
+The Next Page After Applying Effect 
+\nl
+\picw=4in \inspic bisonWithEffect.png
+\nl
+I also made a video demostrating how the program works. 
+
+\filbreak
+\sec Source Code of Effect.h
+
+\hisyntax{C}
+\verbinput (-) Effect.h
+
+\filbreak
+\sec Source Code of Effect.cpp
+
+\hisyntax{C}
+\verbinput (-) Effect.cpp
+
+\filbreak
+\sec Source Code of Sunset.h
+
+\hisyntax{C}
+\verbinput (-) Sunset.h
+
+\filbreak
+\sec Source Code of Sunset.cpp
+
+\hisyntax{C}
+\verbinput (-) Sunset.cpp
+
+\filbreak
+\sec Source Code of Grayscale.h
+
+\hisyntax{C}
+\verbinput (-) Grayscale.h
+
+\filbreak
+\sec Source Code of Grayscale.cpp
+
+\hisyntax{C}
+\verbinput (-) Grayscale.cpp
+
+\filbreak
+\sec Source Code of Invert.h
+
+\hisyntax{C}
+\verbinput (-) Invert.h
+
+\filbreak
+\sec Source Code of Invert.cpp
+
+\hisyntax{C}
+\verbinput (-) Invert.cpp
+
+\filbreak
+\sec Source Code of photoEffect.html
+
+\hisyntax{C}
+\verbinput (-) photoEffect.html
+
+\filbreak
+\sec Source Code of photoEffect.cpp
+
+\hisyntax{C}
+\verbinput (-) photoEffect.cpp
+
+
+
+\bye

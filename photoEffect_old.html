@@ -1,0 +1,55 @@
+<html>
+
+<head>
+    <title>Photo Effect Program</title>
+</head>
+
+<body>
+    <h1>Photo Effect Program</h1>
+    <h3>This program has selected three signature photo effects: Sunset, Grayscale, Invert <br></h3>
+    <h1>Photo Gallery</h1>
+    <figure>
+        <img width="20%" src='bison.bmp' alt='Photo1' />
+        <figcaption>Bison</figcaption>
+    </figure>
+    <figure>
+        <img width="20%" src='prism.bmp' alt='Photo2' />
+        <figcaption>Prism Geyser</figcaption>
+    </figure>
+    <figure>
+        <img width="20%" src='hikingboots.bmp' alt='Photo3' />
+        <figcaption>Hiking Boots</figcaption>
+    </figure>
+
+    <form action="cgi-bin/photoEffect.cgi">
+        <h2>Please select one photo in the gallery:</h2>
+        <div>
+            <input type="radio" id="bison" name="picture" value="bison">
+            <label for="bison">Bison</label>
+        </div>
+        <div>
+            <input type="radio" id="prism" name="picture" value="prism">
+            <label for="prism">Prism Geyser</label>
+        </div>
+        <div>
+            <input type="radio" id="hikingboots" name="picture" value="hikingboots">
+            <label for="hikingboots">Hiking Boots</label>
+        </div>
+        <p>Please select your preferred photo effect:</p>
+        <div>
+            <input type="radio" id="Sunset" name="effect" value="0">
+            <label for="Sunset">Sunset</label>
+
+            <input type="radio" id="Grayscale" name="effect" value="1">
+            <label for="Grayscale">Grayscale</label>
+
+            <input type="radio" id="Invert" name="effect" value="2">
+            <label for="Invert">Invert</label>
+        </div>
+        <div>
+            <button type="submit">Submit</button>
+        </div>
+    </form>
+</body>
+
+</html>

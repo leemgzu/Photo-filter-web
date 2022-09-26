@@ -1,0 +1,82 @@
+<html>
+
+<head>
+    <title>Photo Effect Program</title>
+</head>
+
+<body>
+    <h1>Photo Effect Program</h1>
+    <h3>This program has selected three signature photo effects: Sunset, Grayscale, Invert <br></h3>
+    <h1>Photo Gallery</h1>
+    <figure>
+        <img width="20%" src="original_photo/bison.bmp" alt="Photo0" />
+        <figcaption>bison</figcaption>
+    </figure>
+    <figure>
+        <img width="20%" src="original_photo/elk.bmp" alt="Photo1" />
+        <figcaption>elk</figcaption>
+    </figure>
+    <figure>
+        <img width="20%" src="original_photo/hikingboots.bmp" alt="Photo2" />
+        <figcaption>hikingboots</figcaption>
+    </figure>
+    <figure>
+        <img width="20%" src="original_photo/hollylake.bmp" alt="Photo3" />
+        <figcaption>hollylake</figcaption>
+    </figure>
+    <figure>
+        <img width="20%" src="original_photo/mudgeyser.bmp" alt="Photo4" />
+        <figcaption>mudgeyser</figcaption>
+    </figure>
+    <figure>
+        <img width="20%" src="original_photo/prism.bmp" alt="Photo5" />
+        <figcaption>prism</figcaption>
+    </figure>
+    <figure>
+        <img width="20%" src="original_photo/sapphire.bmp" alt="Photo6" />
+        <figcaption>sapphire</figcaption>
+    </figure>
+    <figure>
+        <img width="20%" src="original_photo/thermogeyser.bmp" alt="Photo7" />
+        <figcaption>thermogeyser</figcaption>
+    </figure>
+    <form action="cgi-bin/photoEffect.cgi">
+        <h2>Please select one photo in the gallery:</h2>
+        <div><input type="radio" name="picture" id="bison" value="bison">
+            <label for="bison">bison</label>
+        </div>
+        <div><input type="radio" name="picture" id="elk" value="elk">
+            <label for="elk">elk</label>
+        </div>
+        <div><input type="radio" name="picture" id="hikingboots" value="hikingboots">
+            <label for="hikingboots">hikingboots</label>
+        </div>
+        <div><input type="radio" name="picture" id="hollylake" value="hollylake">
+            <label for="hollylake">hollylake</label>
+        </div>
+        <div><input type="radio" name="picture" id="mudgeyser" value="mudgeyser">
+            <label for="mudgeyser">mudgeyser</label>
+        </div>
+        <div><input type="radio" name="picture" id="prism" value="prism">
+            <label for="prism">prism</label>
+        </div>
+        <div><input type="radio" name="picture" id="sapphire" value="sapphire">
+            <label for="sapphire">sapphire</label>
+        </div>
+        <div><input type="radio" name="picture" id="thermogeyser" value="thermogeyser">
+            <label for="thermogeyser">thermogeyser</label>
+        </div>
+        <p>Please select your preferred photo effect:</p>
+        <div><input type="radio" id="Sunset" name="effect" value="0">
+            <label for="Sunset">Sunset</label>
+            <input type="radio" id="Grayscale" name="effect" value="1">
+            <label for="Grayscale">Grayscale</label><input type="radio" id="Invert" name="effect" value="2">
+            <label for="Invert">Invert</label>
+        </div>
+        <div>
+            <button type="submit">Submit</button>
+        </div>
+    </form>
+</body>
+
+</html>

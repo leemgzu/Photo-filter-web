@@ -1,0 +1,541 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdftex 2021.9.1)  6 NOV 2021 16:33
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**ch10_lab_report.tex
+(./ch10_lab_report.tex
+(/usr/local/texlive/2021/texmf-dist/tex/csplain/opmac/opmac.tex
+This is OPmac (Olsak's Plain macros), version <May 2020>
+\tmpnum=\count27
+\tmpdim=\dimen16
+\iindent=\dimen17
+\ttindent=\dimen18
+\colsep=\dimen19
+\mnoteindent=\dimen20
+\mnotesize=\dimen21
+\titskip=\skip18
+\ptunit=\dimen22
+\fontdim=\dimen23
+(/usr/local/texlive/2021/texmf-dist/tex/csplain/fonts/ams-math.tex
+FONT: AMS math fonts - \mathchardef's prepared, 12 math families preloaded.
+\ptmunit=\dimen24
+)
+OPmac: etex.src macros detected
+\reffile=\write0
+\testin=\read1
+\chapnum=\count28
+\secnum=\count29
+\seccnum=\count30
+\nonumnum=\count31
+\remskipamount=\skip19
+\tnum=\count32
+\fnum=\count33
+\dnum=\count34
+\itemnum=\count35
+\mullines=\count36
+\oulnum=\count37
+\ttline=\count38
+\viline=\count39
+\vifile=\read2
+\tabdata=\toks13
+\colnum=\count40
+\drulewidth=\dimen25
+\picwidth=\dimen26
+\picheight=\dimen27
+\fnotenum=\count41
+\fnotenumlocal=\count42
+\mnotenum=\count43
+\mnoteskip=\dimen28
+\auxfile=\write1
+\bibnum=\count44
+\bibmark=\toks14
+\lastcitenum=\count45
+\lastpage=\count46
+\pgwidth=\dimen29
+\pgheight=\dimen30
+\shiftoffset=\dimen31
+) (../hisyntax.tex) [1{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updma
+p/pdftex.map}]
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+0.0)x469.75499, glue set 21.62096
+.\glue(\topskip) 0.0
+.\hbox(10.00053+2.80014)x469.75499, glue set 238.66083fil
+..\tenbf 2
+..\glue 16.20088
+..\tenbf T
+..\tenbf h
+..\tenbf e
+..\glue 5.40028 plus 2.70013 minus 1.8001
+..\tenbf I
+..\tenbf m
+..\tenbf a
+..\tenbf g
+..\tenbf e
+..\tenbf s
+..\glue 5.40028 plus 2.70013 minus 1.8001
+..\tenbf i
+..\tenbf n
+..\glue 5.40028 plus 2.70013 minus 1.8001
+..\tenbf P
+..\tenbf h
+..\tenbf o
+..\tenbf t
+..\tenbf o
+..\glue 5.40028 plus 2.70013 minus 1.8001
+..\tenbf G
+..\tenbf a
+..\tenbf l
+..\tenbf l
+..\tenbf e
+..\tenbf r
+..\tenbf y
+..\penalty 10000
+..etc.
+.\mark{{2} {The Images in Photo Gallery}}
+.\penalty 10000
+.\glue 6.0 plus 2.0 minus 2.0
+.\penalty 11333
+.\glue(\lineskip) 1.0
+.\hbox(192.71999+0.0)x289.07999
+..\pdfrefximage(192.71999+0.0)x289.07999
+.\glue(\lineskip) 1.0
+.\hbox(192.71999+0.0)x289.07999
+..\pdfrefximage(192.71999+0.0)x289.07999
+.\glue(\lineskip) 1.0
+.\hbox(192.71999+0.0)x289.07999
+..\pdfrefximage(192.71999+0.0)x289.07999
+
+ [2 <./original_photo/bison.jpg> <./original_photo/prism.jpg> <./original_photo
+/hikingboots.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+0.0)x289.07999
+.\glue(\topskip) 0.0
+.\hbox(192.71999+0.0)x289.07999
+..\pdfrefximage(192.71999+0.0)x289.07999
+.\glue(\lineskip) 1.0
+.\hbox(192.71999+0.0)x289.07999
+..\pdfrefximage(192.71999+0.0)x289.07999
+.\glue(\lineskip) 1.0
+.\hbox(192.71999+0.0)x289.07999
+..\pdfrefximage(192.71999+0.0)x289.07999
+
+ [3 <./original_photo/hollylake.jpg> <./original_photo/elk.jpg> <./original_pho
+to/sapphire.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 42--46
+
+
+\hbox(0.0+0.0)x469.75499
+.\glue(\rightskip) 0.0
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+0.0)x289.07999
+.\glue(\topskip) 0.0
+.\hbox(192.71999+0.0)x289.07999
+..\pdfrefximage(192.71999+0.0)x289.07999
+.\glue(\lineskip) 1.0
+.\hbox(192.71999+0.0)x289.07999
+..\pdfrefximage(192.71999+0.0)x289.07999
+
+ [4 <./original_photo/thermogeyser.jpg> <./original_photo/mudgeyser.jpg>] [5 <.
+/webpage1.png>] [6 <./webpage2.png>] [7 <./bisonWithEffect.png>]
+Overfull \hbox (22.74089pt too wide) in paragraph at lines 66--66
+[][][]    \tentt out_stream.open[]([][]"output_photo/"[] []+[] se-lected_file [
+]+[] []"_"[] []+[] ef-fect_name []+[] []".bmp"[][],[] ios[]:[][]:[]out|
+
+\hbox(6.94444+2.22223)x469.75499
+.\hbox(0.0+0.0)x20.0
+.\hbox(4.51108+0.0)x0.0, glue set - 15.14717fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\pdfcolorstack 0 push {0 g 0 G}
+..\thefont 1
+..\thefont 8
+..\kern 7.17494
+.\pdfcolorstack 0 pop
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\tentt o
+.\tentt u
+.\tentt t
+.\tentt _
+.\tentt s
+.\tentt t
+.\tentt r
+.\tentt e
+.\tentt a
+.\tentt m
+.\tentt .
+.\tentt o
+.\tentt p
+.\tentt e
+.\tentt n
+.\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+.\tentt (
+.\pdfcolorstack 0 pop
+.\pdfcolorstack 0 push {0 1 0 0 k 0 1 0 0 K}
+.\tentt "
+.\tentt o
+.\tentt u
+.\tentt t
+.etc.
+
+[8] [9] [10] [11] [12] [13]
+Overfull \hbox (1.74107pt too wide) in paragraph at lines 114--114
+[][][][]\tentt void[] find[]([]DirectoryEntry di-rec-tory[],[] string ex-ten-si
+on[],[] vec-tor[]<[]DirectoryEntry[]>[] []&[]re-sults[])[] |
+
+\hbox(6.94444+2.22223)x469.75499
+.\hbox(0.0+0.0)x20.0
+.\hbox(4.51108+0.0)x0.0, glue set - 11.16106fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\pdfcolorstack 0 push {0 g 0 G}
+..\thefont 7
+..\kern 7.17494
+.\pdfcolorstack 0 pop
+.\pdfcolorstack 0 push {0 1 1 0 k 0 1 1 0 K}
+.\tentt v
+.\tentt o
+.\tentt i
+.\tentt d
+.\pdfcolorstack 0 pop
+.\glue 5.24995
+.\tentt f
+.\tentt i
+.\tentt n
+.\tentt d
+.\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+.\tentt (
+.\pdfcolorstack 0 pop
+.\tentt D
+.\tentt i
+.\tentt r
+.\tentt e
+.\tentt c
+.\tentt t
+.\tentt o
+.\tentt r
+.\tentt y
+.\tentt E
+.\tentt n
+.\tentt t
+.\tentt r
+.etc.
+
+[14]
+Overfull \hbox (80.49039pt too wide) in paragraph at lines 114--114
+[][][]\tentt     <h3>This program has selected three signature photo effects: S
+unset, Grayscale, Invert <br></h3>\ |
+
+\hbox(6.94444+2.22223)x469.75499
+.\hbox(0.0+0.0)x20.0
+.\hbox(4.51108+0.0)x0.0, glue set - 15.14717fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\pdfcolorstack 0 push {0 g 0 G}
+..\thefont 2
+..\thefont 9
+..\kern 7.17494
+.\pdfcolorstack 0 pop
+.\tentt  
+.\tentt  
+.\tentt  
+.\tentt  
+.\tentt <
+.\tentt h
+.\tentt 3
+.\tentt >
+.\tentt T
+.\tentt h
+.\tentt i
+.\tentt s
+.\tentt  
+.\tentt p
+.\tentt r
+.\tentt o
+.\tentt g
+.\tentt r
+.\tentt a
+.\tentt m
+.\tentt  
+.\tentt h
+.\tentt a
+.\tentt s
+.\tentt  
+.\tentt s
+.\tentt e
+.etc.
+
+[15]
+Overfull \hbox (17.49094pt too wide) in paragraph at lines 114--114
+[][][]    \tentt out-put_file []<[][]<[] []"<in-put type=\"radio\" id=\"Sunset\
+" name=\"effect\" value=\"0\"> \n \ |
+
+\hbox(6.94444+2.22223)x469.75499
+.\hbox(0.0+0.0)x20.0
+.\hbox(4.51108+0.0)x0.0, glue set - 15.14717fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\pdfcolorstack 0 push {0 g 0 G}
+..\thefont 6
+..\thefont 9
+..\kern 7.17494
+.\pdfcolorstack 0 pop
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\tentt o
+.\tentt u
+.\tentt t
+.\discretionary
+..\tentt -
+.\tentt p
+.\tentt u
+.\tentt t
+.\tentt _
+.\tentt f
+.\tentt i
+.\tentt l
+.\tentt e
+.\glue 5.24995
+.\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+.\tentt <
+.\pdfcolorstack 0 pop
+.\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+.\tentt <
+.\pdfcolorstack 0 pop
+.\glue 5.24995
+.\pdfcolorstack 0 push {0 1 0 0 k 0 1 0 0 K}
+.\tentt "
+.\tentt <
+.etc.
+
+
+Overfull \hbox (33.2408pt too wide) in paragraph at lines 114--114
+[][][]                []\tentt <[][]<[] []"<in-put type=\"radio\" id=\"Grayscal
+e\" name=\"effect\" value=\"1\"> \n \ |
+
+\hbox(6.94444+2.22223)x469.75499
+.\hbox(0.0+0.0)x20.0
+.\hbox(4.51108+0.0)x0.0, glue set - 15.14717fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\pdfcolorstack 0 push {0 g 0 G}
+..\thefont 7
+..\thefont 0
+..\kern 7.17494
+.\pdfcolorstack 0 pop
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+.\tentt <
+.\pdfcolorstack 0 pop
+.\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+.\tentt <
+.\pdfcolorstack 0 pop
+.\glue 5.24995
+.\pdfcolorstack 0 push {0 1 0 0 k 0 1 0 0 K}
+.\tentt "
+.\tentt <
+.\tentt i
+.etc.
+
+
+Overfull \hbox (17.49094pt too wide) in paragraph at lines 114--114
+[][][]                []\tentt <[][]<[] []"<in-put type=\"radio\" id=\"Invert\"
+ name=\"effect\" value=\"2\"> \n \ |
+
+\hbox(6.94444+2.22223)x469.75499
+.\hbox(0.0+0.0)x20.0
+.\hbox(4.51108+0.0)x0.0, glue set - 15.14717fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\pdfcolorstack 0 push {0 g 0 G}
+..\thefont 7
+..\thefont 1
+..\kern 7.17494
+.\pdfcolorstack 0 pop
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+.\tentt <
+.\pdfcolorstack 0 pop
+.\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+.\tentt <
+.\pdfcolorstack 0 pop
+.\glue 5.24995
+.\pdfcolorstack 0 push {0 1 0 0 k 0 1 0 0 K}
+.\tentt "
+.\tentt <
+.\tentt i
+.etc.
+
+
+Overfull \hbox (6.99103pt too wide) in paragraph at lines 120--120
+[][][]    []\tentt <[]h3[]>[]This pro-gram has se-lected three sig-na-ture phot
+o ef-fects[]:[] Sun-set[],[] Grayscale[],[] In-|
+
+\hbox(6.11111+2.22223)x469.75499
+.\hbox(0.0+0.0)x20.0
+.\hbox(4.51108+0.0)x0.0, glue set - 11.16106fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\pdfcolorstack 0 push {0 g 0 G}
+..\thefont 9
+..\kern 7.17494
+.\pdfcolorstack 0 pop
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+.\tentt <
+.\pdfcolorstack 0 pop
+.\tentt h
+.\tentt 3
+.\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+.\tentt >
+.\pdfcolorstack 0 pop
+.\tentt T
+.\tentt h
+.\tentt i
+.\tentt s
+.\glue 5.24995
+.\tentt p
+.\tentt r
+.\tentt o
+.\discretionary
+..\tentt -
+.\tentt g
+.\tentt r
+.\tentt a
+.\tentt m
+.\glue 5.24995
+.\tentt h
+.etc.
+
+[16] [17]
+Overfull \hbox (6.99103pt too wide) in paragraph at lines 120--120
+[][][]        []\tentt <[]div[]>[][]<[]input type[]=[][]"radio"[] name[]=[][]"p
+icture"[] id[]=[][]"thermogeyser"[] value[]=[][]"thermogeyser"[][]>[] |
+
+\hbox(6.11111+2.22223)x469.75499
+.\hbox(0.0+0.0)x20.0
+.\hbox(4.51108+0.0)x0.0, glue set - 15.14717fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\pdfcolorstack 0 push {0 g 0 G}
+..\thefont 6
+..\thefont 6
+..\kern 7.17494
+.\pdfcolorstack 0 pop
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+.\tentt <
+.\pdfcolorstack 0 pop
+.\tentt d
+.\tentt i
+.\tentt v
+.\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+.\tentt >
+.\pdfcolorstack 0 pop
+.\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+.\tentt <
+.\pdfcolorstack 0 pop
+.\tentt i
+.\tentt n
+.\tentt p
+.\tentt u
+.\tentt t
+.\glue 5.24995
+.\tentt t
+.etc.
+
+
+Overfull \hbox (59.49057pt too wide) in paragraph at lines 120--120
+[][][]            []\tentt <[]la-bel []for[][]=[][]"Grayscale"[][]>[]Grayscale[
+]<[][]/[]label[]>[][]<[]input type[]=[][]"radio"[] id[]=[][]"Invert"[] name[]=[
+][]"effect"[]|
+
+\hbox(6.94444+2.22223)x469.75499
+.\hbox(0.0+0.0)x20.0
+.\hbox(4.51108+0.0)x0.0, glue set - 15.14717fil
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\pdfcolorstack 0 push {0 g 0 G}
+..\thefont 7
+..\thefont 3
+..\kern 7.17494
+.\pdfcolorstack 0 pop
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\glue 5.24995
+.\pdfcolorstack 0 push {1 1 0 0 k 1 1 0 0 K}
+.\tentt <
+.\pdfcolorstack 0 pop
+.\tentt l
+.\tentt a
+.\discretionary
+..\tentt -
+.\tentt b
+.\tentt e
+.\tentt l
+.\glue 5.24995
+.\pdfcolorstack 0 push {0 1 1 0 k 0 1 1 0 K}
+.\tentt f
+.\tentt o
+.\tentt r
+.\pdfcolorstack 0 pop
+.etc.
+
+[18] [19] [20] )</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+tt10.pfb>
+Output written on ch10_lab_report.pdf (20 pages, 2219397 bytes).
+PDF statistics:
+ 100 PDF objects out of 1000 (max. 8388607)
+ 59 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+
